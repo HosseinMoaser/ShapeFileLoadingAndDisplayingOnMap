@@ -9,3 +9,6 @@ C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoa
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.Domain\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.Domain\bin\Debug\System.Data.OleDb.xml
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.Domain\obj\Debug\ShapeFileLoading.Domain.csproj.CopyComplete
+C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.Domain\bin\Debug\Catfood.Shapefile.dll
+C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.Domain\bin\Debug\Catfood.Shapefile.pdb
+C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.Domain\bin\Debug\Catfood.Shapefile.xml

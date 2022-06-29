@@ -48,9 +48,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\IShapeFileConverters.cs" />
+    <Compile Include="Services\ShapeFileConvertersServices.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Communere\ESIRShapefile\Catfood.Shapefile\Catfood.Shapefile.csproj">
+      <Project>{2086F1A5-3D34-40AD-80EF-C1943411451F}</Project>
+      <Name>Catfood.Shapefile</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

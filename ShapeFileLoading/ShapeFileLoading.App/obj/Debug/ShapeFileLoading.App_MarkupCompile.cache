@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\App.xaml
-2-331832741
+4-1796451028
 
-6-1080034833
+81056888714
 171216332572
-MainWindow.xaml;Views\HomeView.xaml;
+Components\ShapeFileContainer.xaml;Components\ShapeFileVisibilityController.xaml;MainWindow.xaml;Views\HomeView.xaml;
 
 False
 
