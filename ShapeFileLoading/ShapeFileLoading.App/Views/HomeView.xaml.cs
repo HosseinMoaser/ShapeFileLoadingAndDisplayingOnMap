@@ -57,13 +57,18 @@ namespace ShapeFileLoading.App.Views
         private void Container_MouseDown(object sender, MouseButtonEventArgs e)
         {
             ShapeFileContainer container = sender as ShapeFileContainer;
-            MapLayer mapLayer = new MapLayer();
-            myMap.Children.Add(mapLayer);
-            CreateVisibilityController(mapLayer, container);
-
-            foreach (Shape shape in container.ShapeFile)
+            
+            if(container.IsEnable)
             {
-                RenderLayerOnMap(shape, mapLayer);
+                MapLayer mapLayer = new MapLayer();
+                myMap.Children.Add(mapLayer);
+                CreateVisibilityController(mapLayer, container);
+                foreach (Shape shape in container.ShapeFile)
+                {
+                    RenderLayerOnMap(shape, mapLayer);
+                }
+
+                container.IsEnable = false;
             }
             
         }

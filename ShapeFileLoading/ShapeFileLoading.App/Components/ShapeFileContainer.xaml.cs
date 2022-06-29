@@ -22,7 +22,7 @@ namespace ShapeFileLoading.App.Components
     public partial class ShapeFileContainer : UserControl
     {
         public Shapefile ShapeFile;
-
+        public bool IsEnable = true;
         public ShapeFileContainer(Shapefile shapeFile)
         {
             InitializeComponent();
