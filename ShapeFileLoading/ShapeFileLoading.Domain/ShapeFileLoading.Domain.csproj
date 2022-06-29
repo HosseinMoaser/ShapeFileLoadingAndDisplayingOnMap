@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExtensionMethod\ShapeFilesCheckers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IShapeFileConverters.cs" />
     <Compile Include="Services\ShapeFileConvertersServices.cs" />
@@ -60,5 +61,6 @@
       <Name>Catfood.Shapefile</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

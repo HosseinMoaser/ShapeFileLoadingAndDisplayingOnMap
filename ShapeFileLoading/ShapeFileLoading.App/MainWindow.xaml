@@ -7,7 +7,7 @@
         xmlns:views="clr-namespace:ShapeFileLoading.App.Views"       
         mc:Ignorable="d" WindowStartupLocation="CenterScreen"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <views:HomeView/>
+    <Grid x:Name="HomeViewGrid">
+        
     </Grid>
 </Window>

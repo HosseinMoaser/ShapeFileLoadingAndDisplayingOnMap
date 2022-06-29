@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ShapeFileLoading.App.Views;
+using ShapeFileLoading.Domain.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +22,12 @@ namespace ShapeFileLoading.App
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        private HomeView _homeView;
+        public MainWindow(HomeView homeView)
         {
             InitializeComponent();
+            _homeView = homeView;
+            HomeViewGrid.Children.Add(_homeView);
         }
     }
 }

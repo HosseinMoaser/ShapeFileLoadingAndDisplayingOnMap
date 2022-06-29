@@ -25,7 +25,6 @@ C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoa
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\bin\Debug\System.Data.OleDb.xml
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\obj\Debug\Views\HomeView.g.cs
-C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\obj\Debug\Views\HomeView.baml
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\obj\Debug\App.baml
 C:\Users\S M T\Desktop\ShapeFileLoadingWithoutMVVM\ShapeFileLoading\ShapeFileLoading.App\obj\Debug\Components\ShapeFileContainer.g.cs
