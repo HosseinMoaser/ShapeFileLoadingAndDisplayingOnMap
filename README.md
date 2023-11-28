@@ -26,5 +26,3 @@ This is a WPF (Windows Presentation Foundation) project that uses the Codebehind
 ## Usage
 Run the application. The Bing map should display the loaded shape files.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
